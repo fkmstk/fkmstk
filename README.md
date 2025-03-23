@@ -1,4 +1,4 @@
-- vibes coding
+- vibe coding
 
 <!---
 fkmstk/fkmstk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
